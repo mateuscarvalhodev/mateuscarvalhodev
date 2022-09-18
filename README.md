@@ -1,13 +1,9 @@
 ### Olá, eu sou o Mateus Carvalho 👋
 
 
-
-
 - 🔭 Meu foco é no Front-end, mas a ideia é ser web/mobile developer! (react/reactNative)
 - 🌱 Atualmente estudando TypeScript.
-- 🌱 I’m currently learning ...
 - 📫 Como chegar até mim: mateuscarvalhodev@outlook.com
-- 💬 Ask me about ... 
 - ⚡ Curiosidade: Fazendo transição de carreira direito > dev
 
 
@@ -15,9 +11,10 @@
 
 ### Hi there, i am Mateus Carvalho 👋
 
+- 🔭My focus is on the Front-end, but the idea is to be web/mobile developer! (react/reactNative)
 - 🌱 I’m currently learning TypeScript
 - 📫 How to reach me: email: mateuscarvalhodev@outlook.com 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: in career transition
 
 
 <div align="center">
@@ -44,6 +41,6 @@
   <a href = "mailto:mateuscarvalhodev@outlook.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
   <a href="https://www.linkedin.com/in/mateus-carvalho-89383b181/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/mateuscarvalhodev/mateuscarvalhodev/blob/output/github-contribution-grid-snake.svg)
+ 
  
 </div>
