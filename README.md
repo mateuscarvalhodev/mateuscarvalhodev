@@ -4,7 +4,6 @@
 - 🔭 Meu foco é no Front-end, mas a ideia é ser web/mobile developer! (react/reactNative)
 - 🌱 Atualmente estudando TypeScript.
 - 📫 Como chegar até mim: mateuscarvalhodev@outlook.com
-- ⚡ Curiosidade: Fazendo transição de carreira direito > dev
 
 
 --------------------------------------- ENGLISH ---------------------------------------
@@ -14,7 +13,8 @@
 - 🔭My focus is on the Front-end, but the idea is to be web/mobile developer! (react/reactNative)
 - 🌱 I’m currently learning TypeScript
 - 📫 How to reach me: email: mateuscarvalhodev@outlook.com 
-- ⚡ Fun fact: in career transition
+
+![mario](https://user-images.githubusercontent.com/71903343/197866667-e931aa3b-b1c7-417c-b4de-e9405ab890a8.gif)
 
 
 <div align="center">
