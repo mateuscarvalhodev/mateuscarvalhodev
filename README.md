@@ -1,8 +1,7 @@
 ### Olá, eu sou o Mateus Carvalho 👋
 
 
-- 🔭 Meu foco é no Front-end, mas a ideia é ser web/mobile developer! (react/reactNative)
-- 🌱 Atualmente estudando TypeScript.
+- 🔭 Meu foco é no Front-end, web/mobile developer! (react/reactNative)
 - 📫 Como chegar até mim: mateuscarvalhodev@outlook.com
 
 
@@ -10,8 +9,7 @@
 
 ### Hi there, i am Mateus Carvalho 👋
 
-- 🔭My focus is on the Front-end, but the idea is to be web/mobile developer! (react/reactNative)
-- 🌱 I’m currently learning TypeScript
+- 🔭My focus is on the Front-end, web/mobile developer! (react/reactNative)
 - 📫 How to reach me: email: mateuscarvalhodev@outlook.com 
 
 ![mario](https://user-images.githubusercontent.com/71903343/197866667-e931aa3b-b1c7-417c-b4de-e9405ab890a8.gif)
