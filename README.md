@@ -1,11 +1,3 @@
-### Olá, eu sou o Mateus Carvalho 👋
-
-
-- 🔭 Meu foco é no Front-end, web/mobile developer! (react/reactNative)
-- 📫 Como chegar até mim: mateuscarvalhodev@outlook.com
-
-
---------------------------------------- ENGLISH ---------------------------------------
 
 ### Hi there, i am Mateus Carvalho 👋
 
